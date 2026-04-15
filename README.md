@@ -1,3 +1,4 @@
+This program coded around this requirements.
 📌 SCENARIO: Smart Building Sensor Analysis System
 A technology company has installed an IoT (Internet of Things) based sensor system in a 5-story building it manages. Each floor has 4 rooms; temperature, humidity, CO2, and energy consumption data are transmitted to a central system every hour. Software engineers process this data to:
 • Detect abnormal temperature values ​​(< 18°C ​​or > 28°C) and generate alerts
